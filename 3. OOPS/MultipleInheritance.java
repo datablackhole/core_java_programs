@@ -1,6 +1,6 @@
 /*  MULTIPLE INHERITANCE
     - in java multiple inheritance is not supported. ? 
-     ambiguity problem arises where the child is trying to figure out which method from parents to be inherited.Where the parent here are having fuctionally different methods 
+     ambiguity problem arises where the child is trying to figure out which method from parents to be inherited. And the parent here are having fuctionally different methods 
      with the same method name. 
     -  a class in java cannot extend more than one class 
     - but interface can extend more than one interface, so multiple inheritance can be acheived through interfaces.
