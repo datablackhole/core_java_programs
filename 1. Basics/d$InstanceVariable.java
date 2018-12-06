@@ -2,7 +2,7 @@ public class d$InstanceVariable{
 	
 	//scope of instance variable is same as scope of an object
 
-	// Value varies from object to object
+	// Value may vary from object to object
 
 	// created at time of object creation & destroyed at object destruction
 	
