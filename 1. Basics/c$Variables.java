@@ -3,7 +3,7 @@ class Variables // name given to a memory location
 	public static void main(String args[])
   {
       // Two flavors of variables    
-      int i; byte b;                  //a) i,b -> primitive variables represent primitive values
+      int i; byte b;                  //a) i,b -> primitive variables represent primitive datatypes that hold primitive values.
       Variable v = new Variable();    //b)  v  -> reference variables represent objects             // DEFAULT VALUE OF REFEReNCES IS null
 
       // Based on the position and execution, these variables are divided into three types
